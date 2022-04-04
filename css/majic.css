@@ -167,6 +167,7 @@
   color: #fff;
 }
 #wish {
+  position: absolute;
   font-size: 40px;
   white-space: nowrap;
   color: #fff;

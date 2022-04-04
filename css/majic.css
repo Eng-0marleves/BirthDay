@@ -170,7 +170,7 @@
   font-size: 40px;
   white-space: nowrap;
   color: #fff;
-  right: 0; top: 40%;
+  right: -200px; top: 40%;
   z-index: 5;
 }
 .letter {
